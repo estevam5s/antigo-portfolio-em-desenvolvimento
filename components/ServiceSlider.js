@@ -23,28 +23,28 @@ import { FreeMode, Pagination } from 'swiper';
 export const serviceData = [
   {
     icon: <RxCrop />,
-    title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Sistemas Operacionais',
+    description: 'Consigo trabalhar com os principais sistemas operacionais do mercado, como Windows e Linux.',
   },
   {
     icon: <RxPencil2 />,
-    title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Arquiteura de Software',
+    description: 'Nessa área, consigo trabalhar com as principais arquiteturas de software, como MVC e MVVM.',
   },
   {
     icon: <RxDesktop />,
     title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Essa é a área que mais me identifico, consigo trabalhar com as principais Techs, como JavaScript, TypeScript, Python, Nestjs, entre outras.',
   },
   {
     icon: <RxReader />,
-    title: 'Copywriting',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Documentation',
+    description: 'Essa é umas das minhas habilidades preciosas, consigo documentar projetos com as principais ferramentas, como Swagger, Postman, entre outras.',
   },
   {
     icon: <RxRocket />,
-    title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    title: 'Entrega rápida e eficaz',
+    description: 'Consigo entregar projetos de forma rápida e eficaz, com qualidade e segurança.',
   },
 ];
 

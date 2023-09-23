@@ -26,8 +26,8 @@ const Home = () => {
             exit='hidden'
             className='h1'
           >
-            Transforming Ideas <br /> Into{' '}
-            <span className='text-accent'>Digital Reality</span>
+            Transforme Ideias <br /> Em{' '}
+            <span className='text-accent'>Realidade Digital</span>
           </motion.h1>
           {/* subtitle */}
           <motion.p
@@ -37,9 +37,7 @@ const Home = () => {
             exit='hidden'
             className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque
-            nostrum quam reprehenderit vero, tenetur voluptatem nulla aut
-            aspernatur dolores ut.
+            👨‍💻 Apaixonado por tecnologia e programação, estou constantemente buscando desafios e oportunidades de desenvolvimento profissional.
           </motion.p>
           {/* btn */}
           <div className='flex justify-center xl:hidden relative'>
