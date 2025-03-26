@@ -1,34 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📂 Meu Portfólio Profissional
 
-## Getting Started
+## 👋 Sobre Mim
 
-First, run the development server:
+Olá! Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Minha jornada na área de tecnologia me permitiu trabalhar com diversas linguagens de programação e frameworks, sempre buscando aprimorar minhas habilidades e conhecimentos.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 🚀 Habilidades
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Linguagens:** JavaScript, TypeScript, Python, Java
+- **Frontend:** React, Angular, Vue, HTML5, CSS3, SASS
+- **Backend:** Node.js, Express, Django, Spring Boot
+- **Banco de Dados:** MongoDB, PostgreSQL, MySQL, Redis
+- **DevOps:** Docker, Kubernetes, AWS, CI/CD
+- **Ferramentas:** Git, JIRA, Figma, VS Code
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 📚 Formação Acadêmica
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- **Bacharelado em Ciência da Computação** - Universidade XYZ (2018-2022)
+- **Especialização em Desenvolvimento Web Full Stack** - Instituto ABC (2022-2023)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 💼 Experiência Profissional
 
-## Learn More
+### Empresa XYZ - Desenvolvedor Full Stack (2022 - Presente)
+- Desenvolvimento de aplicações web utilizando React e Node.js
+- Implementação de microsserviços com Docker e Kubernetes
+- Otimização de performance em aplicações de alto tráfego
 
-To learn more about Next.js, take a look at the following resources:
+### Empresa ABC - Desenvolvedor Frontend (2020 - 2022)
+- Criação de interfaces responsivas com Angular e SASS
+- Integração com APIs RESTful
+- Desenvolvimento de componentes reutilizáveis
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🖼️ Projetos Destacados
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Sistema de Gestão Empresarial
 
-## Deploy on Vercel
+![Imagem do Projeto](https://github.com/estevam5s/antigo-portfolio-em-desenvolvimento/blob/main/public/IMG_0784.jpeg)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Descrição:** Sistema completo para gestão empresarial, incluindo módulos de finanças, recursos humanos, vendas e estoque.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Tecnologias utilizadas:**
+- Frontend: React, Redux, Material UI
+- Backend: Node.js, Express, MongoDB
+- Deploy: Docker, AWS
+
+**Funcionalidades principais:**
+- Dashboard personalizado com métricas importantes
+- Gestão de usuários com diferentes níveis de permissão
+- Relatórios detalhados em tempo real
+- Integração com sistemas de pagamento
+
+### Aplicativo de Produtividade
+
+![Imagem do Projeto](https://github.com/estevam5s/antigo-portfolio-em-desenvolvimento/blob/main/public/IMG_0785.jpeg)
+
+**Descrição:** Aplicativo para gerenciamento de tarefas e aumento de produtividade pessoal e profissional.
+
+**Tecnologias utilizadas:**
+- Frontend: Vue.js, Vuex, TailwindCSS
+- Backend: Django, PostgreSQL
+- Mobile: React Native
+
+**Funcionalidades principais:**
+- Sistema Kanban para organização de tarefas
+- Técnica Pomodoro integrada
+- Sincronização entre dispositivos
+- Estatísticas de produtividade
+
+## 🏆 Certificações
+
+- AWS Certified Developer - Associate
+- MongoDB Certified Developer
+- Google Cloud Professional Developer
+- Scrum Master Certified
+
+## 📫 Contato
+
+- **Email:** seuemail@exemplo.com
+- **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
+- **Website:** [seusite.com](https://seusite.com)
+
+## 🤝 Vamos Colaborar?
+
+Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você está procurando um desenvolvedor dedicado e apaixonado por tecnologia, entre em contato!
+
+---
+
+⭐ Este portfólio está em constante evolução. Volte sempre para conferir as novidades! ⭐
